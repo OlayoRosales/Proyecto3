@@ -1,214 +1,212 @@
-# Proyecto3
-<html>  
- 
-<title> "Cristian Alejandro Olayo Rosales" </title> 
- 
-<font zice="6" face="Segoe UI Emoji"> 
-    
- <body style="background-color:#D7BDE2;"> 
- 
-<table bordercolordark="#4A235A" bordercolorlight="#A569BD" border="8" cellpadding="4" cellspacing="4"> 
- 
- 
- 
-    <p>  <a href="#Datos"><font color=#0000 size=4 face="Calibri ">Regresar a inicio</font></a> 
-    <p>  <a name="Datos"></a> 
- 
-DATOS PERSONALES 
-  <tr> 
- 
-    <th>Nombre</th> 
- 
-    <td style="color:#0A0A2A">Cristian Alejandro Olayo Rosales</td>     
- 
-</tr> 
- 
-<tr> 
- 
-    <th>Direccion</th> 
- 
-    <td>María Felix</td> 
-</tr> 
- 
-<tr> 
- 
-    <th>Número  </th> 
- 
-    <td>4492992974</td> 
-</tr> 
- 
-<tr> 
- 
-    <th>Peso</th> 
- 
-    <td>50K</td> 
-</tr> 
- 
- <tr> 
- 
-    <th>Edad</th> 
- 
-    <td>16 años</td> 
-</tr> 
- 
-    <th>Fecha de nacimiento</th> 
- 
-    <td>8/6/2002</td> 
-</tr> 
- 
-    <tr> 
- 
-    <th>Correo electronico</th> 
- 
-    <td>alex1olayo@gmail.com</td> 
-</tr> 
-<tr> 
- 
-    <th>Estatura</th> 
- 
-    <td>1.78</td> 
-</tr> 
- 
- 
- </table> 
- 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-ESTUDIOS 
-<table bordercolordark="#4A235A" bordercolorlight="#A569BD" border="8" cellpadding="4" cellspacing="4"> 
- 
-    <p>  <a href="#Datos"><font color=#0000 size=4 face="Calibri">Regresar al inicio</font></a> 
-    <p>  <a name="Datos"></a> 
- 
-  <tr> 
- 
-    <th>Kinder</th> 
- 
-    <td>"Jaime Spuru Jaime"</td> 
- 
-</tr> 
- <tr> 
- 
-    <th>Escuela</th> 
- 
-    <td>Cuitlahuac</td> 
- 
-</tr> 
- <tr> 
- 
-    <th>Secundaria</th> 
- 
-    <td>Rosario Castellanos</td> 
- 
-</tr> 
- <tr> 
- 
-    <th>Preparatoria</th> 
- 
-    <td>CETis 155 "Josefa Órtiz de Dómingues"</td> 
- 
-</tr> 
-</table> 
- 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-GUSTOS 
-<table bordercolordark="#4A235A" bordercolorlight="#A569BD" border="8" cellpadding="4" cellspacing="4"> 
- 
-    <p>  <a href="#Datos"><font color=#0000 size=4 face="Calibri">Regresar al inicio</font></a> 
-    <p>  <a name="Datos"></a> 
- 
-  <tr> 
- 
-    <th>Gustos</th> 
- 
-    <td>Me guta el fut </td> 
-    <td>Me gusta dibujar</td> 
-    <td>Me gustan los emojis &#128586&#128147&#128520</td> 
-    <td>soi baquero &#128526 &#128147&#128052&#128068 </td> 
- 
-</tr> 
-</table> 
- 
- 
-<img src="https://i.imgur.com/PgjLfnv.png" 
- height="250" 
- height="250" 
- style ="position:absolute;top: 400;left: 1100;"> 
- 
- 
-<img src="https://cdn140.picsart.com/273028743014211.png?r1024x1024" 
- height="250" 
- height="250" 
- style ="position:absolute;top: 400;left: 800;"> 
- 
- 
- <img src="https://cdn140.picsart.com/281891173023211.png?r1024x1024" 
- height="250" 
- height="250" 
- style ="position:absolute;top: 400;left:100;"> 
- 
- <img src="https://www.pinterest.com.mx/pin/764908317940094945/" 
- height="250" 
- height="250" 
- style ="position:absolute;top: -40;left:1100;"> 
+<html> 
 
- 
- <img src="https://www.pinterest.com.mx/pin/764908317940094950/" 
- height="250" 
- height="250" 
- style ="position:absolute;top: -50;left:1100;"> 
- 
- 
-  <img src="https://www.pinterest.com.mx/pin/764908317940094950/" 
- height="250" 
- height="250" 
- style ="position:absolute;top: 380;left:165;"> 
- 
- 
-  <img src="https://www.pinterest.com.mx/pin/764908317940094930/" 
- width="500" 
- height="300" 
- style ="position:absolute;top: 380;left:770;"> 
- 
- 
- 
- 
- <img src="https://c2.staticflickr.com/4/3126/2800799132_4b7980a8ac_z.jpg?zz=1" 
- height="250" 
- height="250" 
- style ="position:absolute;top: 900;left:1100;"> 
- 
-  <img src="https://www.pinterest.com.mx/pin/764908317940094950/" 
- width="220" 
- height="300" 
- style ="position:absolute;top: 850;left:1100;"> 
- 
- 
- 
-<body style="background-color:871818;"> 
- 
- 
-</body> 
- 
- 
- 
+<title> "Cristian Alejandro Olayo Rosales" </title>
+
+<font zice="6" face="Segoe UI Emoji">
+   
+ <body style="background-color:#D7BDE2;">
+
+<table bordercolordark="#4A235A" bordercolorlight="#A569BD" border="8" cellpadding="4" cellspacing="4">
+
+
+
+    <p>  <a href="#Datos"><font color=#0000 size=4 face="Calibri ">Regresar a inicio</font></a>
+    <p>  <a name="Datos"></a>
+
+DATOS PERSONALES
+  <tr>
+
+    <th>Nombre</th>
+
+    <td style="color:#0A0A2A">Cristian Alejandro Olayo Rosales</td>    
+
+</tr>
+
+<tr>
+
+    <th>Direccion</th>
+
+    <td>María Felix</td>
+</tr>
+
+<tr>
+
+    <th>Número  </th>
+
+    <td>4492992974</td>
+</tr>
+
+<tr>
+
+    <th>Peso</th>
+
+    <td>50K</td>
+</tr>
+
+ <tr>
+
+    <th>Edad</th>
+
+    <td>16 años</td>
+</tr>
+
+    <th>Fecha de nacimiento</th>
+
+    <td>8/6/2002</td>
+</tr>
+
+    <tr>
+
+    <th>Correo electronico</th>
+
+    <td>alex1olayo@gmail.com</td>
+</tr>
+<tr>
+
+    <th>Estatura</th>
+
+    <td>1.78</td>
+</tr>
+
+
+	</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ESTUDIOS
+<table bordercolordark="#4A235A" bordercolorlight="#A569BD" border="8" cellpadding="4" cellspacing="4">
+
+    <p>  <a href="#Datos"><font color=#0000 size=4 face="Calibri">Regresar al inicio</font></a>
+    <p>  <a name="Datos"></a>
+
+  <tr>
+
+    <th>Kinder</th>
+
+    <td>"Jaime Spuru Jaime"</td>
+
+</tr>
+ <tr>
+
+    <th>Escuela</th>
+
+    <td>Cuitlahuac</td>
+
+</tr>
+ <tr>
+
+    <th>Secundaria</th>
+
+    <td>Rosario Castellanos</td>
+
+</tr>
+ <tr>
+
+    <th>Preparatoria</th>
+
+    <td>CETis 155 "Josefa Órtiz de Dómingues"</td>
+
+</tr>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+GUSTOS
+<table bordercolordark="#4A235A" bordercolorlight="#A569BD" border="8" cellpadding="4" cellspacing="4">
+
+    <p>  <a href="#Datos"><font color=#0000 size=4 face="Calibri">Regresar al inicio</font></a>
+    <p>  <a name="Datos"></a>
+
+  <tr>
+
+    <th>Gustos</th>
+
+    <td>Me guta el fut </td>
+    <td>Me gusta dibujar</td>
+    <td>Me gustan los emojis &#128586&#128147&#128520</td>
+    <td>soi baquero &#128526 &#128147&#128052&#128068 </td>
+
+</tr>
+</table>
+
+
+<img src="https://i.imgur.com/PgjLfnv.png"
+ height="250"
+ height="250"
+ style ="position:absolute;top: 400;left: 1100;">
+
+
+<img src="https://cdn140.picsart.com/273028743014211.png?r1024x1024"
+ height="250"
+ height="250"
+ style ="position:absolute;top: 400;left: 800;">
+
+
+ <img src="https://cdn140.picsart.com/281891173023211.png?r1024x1024"
+ height="250"
+ height="250"
+ style ="position:absolute;top: 400;left:100;">
+
+ <img src="https://i.pinimg.com/564x/7a/51/2b/7a512b7c746c605edbaa33d0f211f8b7.jpg"
+ height="250"
+ height="250"
+ style ="position:absolute;top: -40;left:1100;">
+
+ <img src="https://i.pinimg.com/564x/31/f3/14/31f3144d7fd81df4e2bc1baf9631058c.jpg"
+ height="250"
+ height="250"
+ style ="position:absolute;top: -50;left:1100;">
+
+
+  <img src="https://i.pinimg.com/564x/31/f3/14/31f3144d7fd81df4e2bc1baf9631058c.jpg"
+ height="250"
+ height="250"
+ style ="position:absolute;top: 380;left:165;">
+
+
+  <img src="https://i.pinimg.com/564x/ba/36/f8/ba36f8660e88a14b7a151db4ad92f353.jpg"
+ width="500"
+ height="300"
+ style ="position:absolute;top: 380;left:770;">
+
+
+
+
+ <img src="https://c2.staticflickr.com/4/3126/2800799132_4b7980a8ac_z.jpg?zz=1"
+ height="250"
+ height="250"
+ style ="position:absolute;top: 900;left:1100;">
+
+  <img src="https://i.pinimg.com/564x/31/f3/14/31f3144d7fd81df4e2bc1baf9631058c.jpg"
+ width="220"
+ height="300"
+ style ="position:absolute;top: 850;left:1100;">
+
+
+
+<body style="background-color:871818;">
+
+
+</body>
+
+
+
 <html>
