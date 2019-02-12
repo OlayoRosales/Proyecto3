@@ -166,25 +166,25 @@ GUSTOS
  height="250" 
  style ="position:absolute;top: 400;left:100;"> 
  
- <img src="Cholo2.png" 
+ <img src="https://www.pinterest.com.mx/pin/764908317940094945/" 
  height="250" 
  height="250" 
  style ="position:absolute;top: -40;left:1100;"> 
 
  
- <img src="Marco.png" 
+ <img src="https://www.pinterest.com.mx/pin/764908317940094950/" 
  height="250" 
  height="250" 
  style ="position:absolute;top: -50;left:1100;"> 
  
  
-  <img src="Marco.png" 
+  <img src="https://www.pinterest.com.mx/pin/764908317940094950/" 
  height="250" 
  height="250" 
  style ="position:absolute;top: 380;left:165;"> 
  
  
-  <img src="marcote.png" 
+  <img src="https://www.pinterest.com.mx/pin/764908317940094930/" 
  width="500" 
  height="300" 
  style ="position:absolute;top: 380;left:770;"> 
@@ -197,7 +197,7 @@ GUSTOS
  height="250" 
  style ="position:absolute;top: 900;left:1100;"> 
  
-  <img src="Marco.png" 
+  <img src="https://www.pinterest.com.mx/pin/764908317940094950/" 
  width="220" 
  height="300" 
  style ="position:absolute;top: 850;left:1100;"> 
